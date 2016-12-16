@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Enum.Utility.Description</id>
+    <version>1.0.0</version>
+    <title></title>
+    <authors>Anton Kushpil</authors>
+    <owners>Anton Kushpil</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Alows to use custom strings for Enum description</description>
+    <releaseNotes>First edition</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags></tags>
+  </metadata>
+</package>

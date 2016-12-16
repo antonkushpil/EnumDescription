@@ -1,0 +1,5 @@
+c:\users\anton_kushpil\documents\visual studio 2015\Projects\EnumDescription\EnumDescription\bin\Debug\EnumDescription.dll
+c:\users\anton_kushpil\documents\visual studio 2015\Projects\EnumDescription\EnumDescription\bin\Debug\EnumDescription.pdb
+c:\users\anton_kushpil\documents\visual studio 2015\Projects\EnumDescription\EnumDescription\obj\Debug\EnumDescription.csprojResolveAssemblyReference.cache
+c:\users\anton_kushpil\documents\visual studio 2015\Projects\EnumDescription\EnumDescription\obj\Debug\EnumDescription.dll
+c:\users\anton_kushpil\documents\visual studio 2015\Projects\EnumDescription\EnumDescription\obj\Debug\EnumDescription.pdb
